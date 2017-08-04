@@ -2,33 +2,33 @@
 =
 //------------------------------------------------------------------------- MM=
 =
-MM_GameSettings=Opções do jogo
-MM_VideoSettings=Ajustes de vídeo
-MM_AudioSettings=Ajustes de áudio
-=
-MM_Language=Idioma do jogo
-=
-MM_ScreenResolution=Resolução de tela
-MM_Fullscreen=Tela completa
-MM_VSync=Sincronização vertical
-MM_Quality=Qualidade de gráficos
-=
-MM_GameVolume=Volume do jogo
-MM_MusicVolume=Volume de música
-MM_AmbientSound=Volume de som ambiental
-=
-MM_NewProfile=Novo perfil
-MM_SelectProfile=Selecionar perfil
-MM_DeleteProfile=Excluir perfil
-=
-MM_Apply=Aplicar
-MM_Back=Voltar
-=
-MM_NormalMode=Modo normal
-MM_SandboxMode=Modo caixa de areia
-MM_ExpertMode=Modo experto
-=
-MM_EmptySave=perfil vazio
+MM_GameSettings = Configurações de Jogo
+MM_VideoSettings = Configurações de Video
+MM_AudioSettings = Configurações De Audio
+
+MM_Language = Linguagens Disponíveis
+
+MM_ScreenResolution = Resolução da tela
+MM_Fullscreen = Tela Cheia
+MM_VSync = Vsync
+MM_Quality = Qualidades Gráficas
+
+MM_GameVolume = Volume do Jogo
+MM_MusicVolume = Volume da Música
+MM_AmbientSound = Volume Ambiente
+
+MM_NewProfile = Novo Perfil
+MM_SelectProfile = Selecionar Perfil
+MM_DeleteProfile = Deletar Perfil
+
+MM_Apply = Aplicar
+MM_Back = Voltar
+
+MM_NormalMode = Modo Normal
+MM_SandboxMode = Modo SandBox
+MM_ExpertMode = Modo  Difícil
+
+MM_EmptySave = Perfil Vazio
 =
 //--------------------------------------------------------------------------- Menu=
 =
