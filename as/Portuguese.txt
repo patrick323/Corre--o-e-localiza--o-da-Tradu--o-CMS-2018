@@ -367,163 +367,163 @@ PopUp_MusicSong = Tocando Agora
 PopUp_SaveGame = Salvando o Jogo
 =
 //---------------------------------------------------------------------------PIE MENU=
-pie_battery_charge=Carregar bateria
-pie_battery_charge_bonus=Aqui pode-se recarregar as baterias sem carga
-=
-pie_battery_take=Tirar bateria do carregador
-pie_battery_take_bonus=As baterias recarregadas se adicionarão ao seu inventário
-=
-pie_spring_separate=Separar peças
-pie_spring_separate_bonus=Separar mola da suspensão
-=
-pie_spring_connect=Combinar peças
-pie_spring_connect_bonus=Unir mola à suspensão
-=
-pie_spring_take=Retirar peças do compressor
-pie_spring_take_bonus=As peças se adicionarão ao seu inventário
-=
-pie_wheel_separate=Separar peças
-pie_wheel_separate_bonus=Separar pneumático do aro
-=
-pie_wheel_connect=Montar
-pie_wheel_connect_bonus=Montar pneumático no aro
-=
-pie_wheel_take=Retirar
-pie_wheel_take_bonus=Retirar peças do trocador de pneumáticos
-=
-pie_balancer_take=Retirar
-pie_balancer_take_bonus=Retirar peças do balanceador de rodas
-=
-pie_balancer_balance=Equilibrar
-pie_balancer_balance_bonus=Equilibrar rodas
-=
-pie_list_add=Adicionar à lista
-pie_list_add_bonus=Adicionar peça ao bloco de notas
-=
-pie_list_delete=Excluir da lista
-pie_list_delete_bonus=Excluir peça do bloco de notas
-=
-pie_list_open=NOTAS DE PEÇAS
-pie_list_open_bonus=Abrir notas de peças
-=
-pie_list_locked=Mova o cursor sobre a peça para adicioná-la às notas de peças.
-=
-pie_move_car=DESLOCAR CARRO
-pie_move_car_bonus=Deslocar carro para outra localização da oficina
-=
-pie_move_dyno=Dinamômetro
-pie_move_dyno_bonus=Aqui você pode comprovar e modificar o rendimento do carro
-=
-pie_move_paintshop=Oficina de Pintura
-pie_move_paintshop_bonus=Aqui você pode pintar tanto o seu carro completo como as distintas peças por separado
-=
-pie_move_parking=Estacionamento
-pie_move_parking_bonus=Guarda seus carros no estacionamento, de esta forma não ocuparão espaço na oficina quando você não precisar deles
-=
-pie_move_pathTest=Prova de rota
-pie_move_pathTest_bonus=A prova de rota te ayudará a provar a maioria das peças da suspensão e dos freios
-=
-pie_move_entrance1=Entrada à garagem A.
-pie_move_entrance1_bonus=Coloque-o perto da porta da garagem
-=
-pie_move_entrance2=Entrada à garagem B
-pie_move_entrance2_bonus=Coloque-o perto da porta da garagem
-=
-pie_move_carLift1=Ascensor A.
-pie_move_carLift1_bonus=Primeiro ascensor
-=
-pie_move_carLift2=Ascensor B
-pie_move_carLift2_bonus=Segundo ascensor
-=
-pie_move_carLift3=Ascensor C
-pie_move_carLift3_bonus=Terceiro ascensor
-=
-pie_move_blocked=Já há um carro nesta localização.
-pie_move_locked=Melhore a oficina para aceder a esta área
-=
-pie_settings=MENU DE CONFIGURAÇÃO
-pie_settings_bonus=Neste menu você poderá configurar os ajustes do jogo
-=
-pie_settings_save=Salvar partida
-pie_settings_load=Carregar partida
-=
-pie_settings_menu=Voltar ao menu
-pie_settings_menu_bonus=Sair ao menu do jogo sem salvar
-=
-pie_switch_body=MODO VISTA GERAL
-pie_switch_body_bonus=Com este modo você terá uma vista geral das peças
-=
-pie_tablet=TABLET
-pie_tablet_bonus=Acesso rápido ao computador da oficina
-=
-pie_inventory=INVENTÁRIO
-pie_inventory_bonus=Aqui você pode examinar, procurar e vender peças
-=
-pie_order_check=ESTADO DO CARRO
-pie_order_check_bonus=Comprove o estado atual do carro
-=
-pie_order_list=ENCOMENDAS
-pie_order_list_bonus=Comprove os encargos disponíveis
-=
-pie_examine_tools=EXAMINAR FERRAMENTAS
-pie_examine_tools_bonus=As ferramentas especiais te ajudarão a examinar o carro mais rápido
-=
-pie_mode_examine=EXAMINAR MODO
-pie_mode_examine_bonus=O modo examinar permite uma vista geral do estado da peça
-=
-pie_mode_garage=MODO NORMAL
-pie_mode_garage_bonus=Mudar para o modo padrão
-=
-pie_mode_garage_assemble=MODO DE MONTAGEM
-pie_mode_garage_assemble_bonus=Mudar para o modo de montagem
-=
-pie_mode_group_mount=MONTAR GRUPO
-pie_mode_group_mount_bonus=Mudar para o modo de montar grupo
-=
-pie_mode_group_unmount=DESMONTAR GRUPO
-pie_mode_group_unmount_bonus=Mudar para o modo de desmontar grupo
-=
-pie_mode_part_mount=MONTAR PEÇA
-pie_mode_part_mount_bonus=Mudar para o modo de montar peça
-=
-pie_mode_part_unmount=DESMONTAR PEÇA
-pie_mode_part_unmount_bonus=Mudar para o modo de desmontar peça
-=
-pie_mode_photo=MODO FOTO
-pie_mode_photo_bonus=Tire fotos de tudo aquilo que quer compartilhar com a comunidade
-=
-pie_mode_interior_disassemble=DESMONTAGEM INTERIOR
-pie_mode_interior_disassemble_bonus=Mudar para o modo de desmontagem interior
-=
-pie_mode_interior_assemble=MONTAGEM INTERIOR
-pie_mode_interior_assemble_bonus=Mudar para o modo de montagem interior
-=
-pie_engine_rotate_left=Girar motor à esquerda
-pie_engine_rotate_right=Girar motor à direita
-pie_engine_add=Colocar um motor no guindaste
-pie_engine_new=Criar novo motor
-pie_engine_take=Tirar motor do guindaste
-pie_car_drive=Conduza o carro
-pie_car_run=Arranque o carro
-pie_paintshop_car=Pintar carro
-pie_paintshop_part=Pintar peça
-=
-pie_jukebox_change_station=MUDAR EMISSORA
-pie_jukebox_turn_on_off=LIGAR/DESLIGAR O RÁDIO
-pie_jukebox_next_sound=SEGUINTE CANÇÃO
-=
-pie_car_buy=Comprar carro
-pie_car_buy_bonus=Comprove a informação do carro e o preço da seleção
-=
-pie_settings_garage=Voltar à garagem
-pie_settings_garage_bonus=Faça uma vista geral dos elementos recolhidos e da oficina
-=
-pie_settings_parking_garage=Voltar à garagem
-=
-pie_equipment_use=UTILIZAR EQUIPAMENTO
-=
-pie_equipment_move=TRASLADAR EQUIPAMENTO
-pie_equipment_move_bonus=Trasladar o equipamento para outra localização
+pie_battery_charge = Carregar Bateria
+pie_battery_charge_bonus = Você pode Recarregar aqui baterias sem carga
+
+pie_battery_take = Tirar bateria do carregador
+pie_battery_take_bonus = Retire as baterias recarregadas e coloque em seu inventário
+
+pie_spring_separate = Separar Peças
+pie_spring_separate_bonus = Separar Mola da Suspenção
+
+pie_spring_connect = Juntar Peças
+pie_spring_connect_bonus = Juntar mola à suspenção
+
+pie_spring_take = Retirar peças do compressor
+pie_spring_take_bonus =  As peças serão movidas para o inventário
+
+pie_wheel_separate =  Separar Peças
+pie_wheel_separate_bonus =  Separar o Pneu da Roda
+
+pie_wheel_connect =  Montar
+pie_wheel_connect_bonus =  Montar o Pneu na Roda
+
+pie_wheel_take =  Retirar
+pie_wheel_take_bonus =  Retirar Peças do Trocador de Pneus
+
+pie_balancer_take =  Retirar
+pie_balancer_take_bonus = Retirar roda e Pneu do Balanceador de Pneus
+
+pie_balancer_balance =  balancear
+pie_balancer_balance_bonus =  Balancear Roda
+
+pie_list_add =  Adicionar a lista
+pie_list_add_bonus = Adicionar peças no caderno
+
+pie_list_delete =  Deletar da lista
+pie_list_delete_bonus =  Deletar peças da lista
+
+pie_list_open =  NOTAS DE PEÇAS
+pie_list_open_bonus =  Abrir notas de peças
+
+pie_list_locked = Move cursor over part to add it into parts notes
+
+pie_move_car =  MOVER CARRO
+pie_move_car_bonus = Mover o carro para outro local da garagem
+
+pie_move_dyno =  Dinamômetro
+pie_move_dyno_bonus =  Aqui você pode verificar e modificar o desempenho do carro
+
+pie_move_paintshop =  Oficina de Pintura
+pie_move_paintshop_bonus =  Você pode pintar o carro completo ou apenas uma peça aqui
+
+pie_move_parking =  Estacionamento
+pie_move_parking_bonus =  Estacione seus carros no estacionamento, assim você não ocupa o espaço da oficina quando não esta ocupando os seus carros
+
+pie_move_pathTest =  Trajeto de Testes
+pie_move_pathTest_bonus =  O trajeto de testes irá ajudá-lo a examinar a maioria das peças de suspensão e freios
+
+pie_move_entrance1 =  Entrada da Garagem A
+pie_move_entrance1_bonus =  Coloque perto da porta da garagem
+
+pie_move_entrance2 =  Entrada da Garagem B
+pie_move_entrance2_bonus =  Coloque perto da porta da garagem
+
+pie_move_carLift1 = Elevador de Carros A
+pie_move_carLift1_bonus = Primeiro elevador de carros
+
+pie_move_carLift2 = Elevador de Carros B
+pie_move_carLift2_bonus = Segundo elevador de carros
+
+pie_move_carLift3 = Elevador de Carros C
+pie_move_carLift3_bonus = Terceiro elevador de carros
+
+pie_move_blocked = Já há um carro neste local
+pie_move_locked = Melhore sua oficina para conseguir novos espaços
+
+pie_settings =  MENU DE CONFIGURAÇÕES
+pie_settings_bonus =  Neste menu você poderá ajustar as configurações do jogo
+
+pie_settings_save =  Salvar jogo
+pie_settings_load =  Carregar jogo
+
+pie_settings_menu =  Voltar para o Menu
+pie_settings_menu_bonus =  Sair para o Menu sem Salvar o Jogo
+
+pie_switch_body =  MODO DE VISÃO GERAL
+pie_switch_body_bonus =  Visão geral das peças do carro usando este modo
+
+pie_tablet =  TABLET
+pie_tablet_bonus = Acesse rapidamente o computador da oficina
+
+pie_inventory =  INVENTÁRIO
+pie_inventory_bonus = Você pode procurar, pesquisar e vender peças aqui
+
+pie_order_check =  CONDIÇÕES DO CARRO
+pie_order_check_bonus = Verifique o estado atual do carro
+
+pie_order_list =  ORDENS
+pie_order_list_bonus =  Verifique as ordens disponíveis
+
+pie_examine_tools =  FERRAMENTAS DE INSPEÇÃO
+pie_examine_tools_bonus = Ferramentas especiais irão ajudá-lo a examinar o carro mais rapidamente
+
+pie_mode_examine =  MODO DE EXAMINAMENTO
+pie_mode_examine_bonus =  O modo de exame permitirá o modo de visão geral de condições parcial das peças
+
+pie_mode_garage =  MODO NORMAL
+pie_mode_garage_bonus =  Mude para o modo Normal
+
+pie_mode_garage_assemble = MODO DE MONTAGEM
+pie_mode_garage_assemble_bonus =  Mudar para o modo de montagem
+
+pie_mode_group_mount =  MONTAGEM EM GRUPO
+pie_mode_group_mount_bonus =  Mude para o modo de montagem em grupo
+
+pie_mode_group_unmount =  DESMONTAGEM EM GRUPO
+pie_mode_group_unmount_bonus =  Mude para o modo de desmontagem do grupo
+
+pie_mode_part_mount =  MONTAR PEÇAS
+pie_mode_part_mount_bonus =  Mude para o modo de montagem parcial
+
+pie_mode_part_unmount =  DESMONTAR PEÇAS
+pie_mode_part_unmount_bonus =  Mude para o modo de desmontagem parcial
+
+pie_mode_photo =  MODO FOTO
+pie_mode_photo_bonus =  Faça fotos do que quiser e compartilhe com a comunidade
+
+pie_mode_interior_disassemble =  DESMONTAGEM DE INTERIOR
+pie_mode_interior_disassemble_bonus =  Troque para o modo de desmontagem interior
+
+pie_mode_interior_assemble = MONTAGEM DE INTERIOR
+pie_mode_interior_assemble_bonus =  Troque para o modo de montagem interior
+
+pie_engine_rotate_left =  Girar motor para a Esquerda
+pie_engine_rotate_right =  Girar motor para a Direita
+pie_engine_add =  Colocar um novo motor na caixa
+pie_engine_new =  Montar um novo motor
+pie_engine_take =  Retire o motor da caixa
+pie_car_drive =  Dirigir o carro
+pie_car_run =  Ligar o carro
+pie_paintshop_car =  Pintar carro
+pie_paintshop_part =  Pintar peça
+
+pie_jukebox_change_station = TROCAR ESTAÇÃO
+pie_jukebox_turn_on_off = LIGAR/DESLIGAR RÁDIO
+pie_jukebox_next_sound = PRÓXIMO SOM
+
+pie_car_buy = Comprar Carro
+pie_car_buy_bonus = Verifique informações sobre o carro e o preço da coleção
+
+pie_settings_garage = Voltar à garagem
+pie_settings_garage_bonus = Faça uma revisão geral das peças recolhidas e da oficina
+
+pie_settings_parking_garage = Voltar para a garagem
+
+pie_equipment_use = USAR EQUIPAMENTO
+
+pie_equipment_move = MOVER EQUIPAMENTO
+pie_equipment_move_bonus = Mover Equipamento para outro lugar
 =
 pie_equipment_move_entrance1=Entrada à Loja A
 pie_equipment_move_entrance1_bonus=Coloque-o perto da porta da garagem
