@@ -1799,7 +1799,7 @@ RimName=Roda
 !zwrotnicaTyl_oslona_1 = Prato do Freio da Roda Traseiro
 !w12_tlok_1_pierscienie_1 = Anéis do Pistão (W12)
 !chlodnica_2 = Radiador C
-!chlodnica_2_nakretka = Capa Radiador C
+!chlodnica_2_nakretka = Tampa do Radiador C
 
 !zaciskHamulcowy_tloczek_1 = Cilindro da Pinça de Freio
 !zwrotnicaPrzodBeben_1_double = Cubo da roda 1
