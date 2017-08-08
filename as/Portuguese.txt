@@ -6,7 +6,7 @@ MM_GameSettings = Configurações de Jogo
 MM_VideoSettings = Configurações de Video
 MM_AudioSettings = Configurações De Audio
 
-MM_Language = Linguagens Disponíveis
+MM_Language = Idiomas Disponíveis
 
 MM_ScreenResolution = Resolução da tela
 MM_Fullscreen = Tela Cheia
