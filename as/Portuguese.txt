@@ -672,7 +672,7 @@ GUI_CarNotConnected = Não há nenhum carro para se trabalhar aqui
 GUI_Locked = Bloqueado
 GUI_RemoveCarFromArrivalPlace = Abra novos espaços perto dos portões principais para estacionar o carro lá.
 GUI_EngineStandOccupied = Já há um motor no suporte para motores
-GUI_obd_unavailable = =Este carro não tem porta OBD. Não poderá realizar esta ação.
+GUI_obd_unavailable =Este carro não tem porta OBD. Não poderá realizar esta ação.
 GUI_junkyardfee= A viagem irá lhe custar {0}. Tem certeza de que deseja ir?
 GUI_LicensePlate = Placa
 GUI_SelectPart = Selecionar Peça
