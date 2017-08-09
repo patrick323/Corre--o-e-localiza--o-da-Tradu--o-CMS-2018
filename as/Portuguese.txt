@@ -1802,10 +1802,10 @@ RimName=Roda
 !chlodnica_2_nakretka = Tampa do Radiador C
 
 !zaciskHamulcowy_tloczek_1 = Cilindro da Pinça de Freio
-!zwrotnicaPrzodBeben_1_double = Cubo da roda 1
-!zwrotnicaPrzodBeben_oslona_1 = Cubo da roda 2
-!zwrotnicaTyl_oslona_2 = Cubo da roda 3
-!zwrotnicaTylBeben_oslona_1 = Cubo da roda 4
+!zwrotnicaPrzodBeben_1_double = Prato do Cubo da roda 1
+!zwrotnicaPrzodBeben_oslona_1 = Prato do Cubo da roda 2
+!zwrotnicaTyl_oslona_2 = Prato do Cubo da roda 3
+!zwrotnicaTylBeben_oslona_1 = Prato do Cubo da roda 4
 
 !amortyzator_double_rear = ^!amortyzator_double Traseiro 
 !w_v8_poczatkowy_h1 = ^!w_v8_poczatkowy A
